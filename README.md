@@ -55,22 +55,28 @@ This project is an interactive PowerPoint dashboard created to analyze and prese
 ##  Preview
 
 ###  Dashboard Home
-![Dashboard](dashboard_Home.png)
+![Dashboard](dashboard_Home.png)  
+This is the main navigation screen with interactive buttons.
 
 ###  Sales Analysis
-![Sales](sales_analvis.png)
+![Sales](sales_analvis.png)  
+Shows sales growth trends over time.
 
 ###  Profit Analysis
-![Profit](profit_analysis.png)
+![Profit](profit_analysis.png)  
+Technology category generates the highest profit.
 
 ###  Region Analysis
-![Region](Region_Analysis.png)
+![Region](Region_Analysis.png)  
+Displays sales distribution across regions.
 
 ###  Top Products
-![Top Products](top_products.png)
+![Top Products](top_products.png)  
+Highlights top-performing products contributing to revenue.
 
 ###  Conclusion & Insights
-![Conclusion](conclusion.png)
+![Conclusion](conclusion.png)  
+Summarizes key insights and recommendations.
 
 ##  Author
 Chandini Patan 
