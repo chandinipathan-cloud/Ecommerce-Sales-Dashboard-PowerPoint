@@ -53,7 +53,24 @@ This project is an interactive PowerPoint dashboard created to analyze and prese
 3. Use navigation buttons to explore different sections
 
 ##  Preview
-(Add screenshots here)
+
+###  Dashboard Home
+![Dashboard](dashboard_Home.png)
+
+###  Sales Analysis
+![Sales](sales_analvis.png)
+
+###  Profit Analysis
+![Profit](profit_analysis.png)
+
+###  Region Analysis
+![Region](Region_Analysis.png)
+
+###  Top Products
+![Top Products](top_products.png)
+
+###  Conclusion & Insights
+![Conclusion](conclusion.png)
 
 ##  Author
 Chandini Patan 
